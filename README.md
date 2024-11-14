@@ -8,9 +8,9 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🔭 I'm a <b> beginner in programming. </b>
-- 🌱 Currently Learning <b> Full stack  development, flutter app development and DSA </b>
+- 🌱 Currently Learning <b> Full stack  development, web development and DSA </b>
 
-🧍‍♂️ I’m looking to collaborate on open source projects
+ 🧍‍♂️ I’m looking to collaborate on open source projects
 
 - 👨‍💻 All of my projects are available at [GitHub]https://github.com/SaiYelmatwad
 
