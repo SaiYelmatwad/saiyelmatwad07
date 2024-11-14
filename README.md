@@ -10,13 +10,11 @@
 - 🔭 I'm a <b> beginner in programming. </b>
 - 🌱 Currently Learning <b> Full stack  development, web development and DSA </b>
 
+- 🌱 Pursuing **MBA It-management DyPatilUniversity**
 - 🧍‍♂️ I’m looking to collaborate on open source projects
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/SaiYelmatwad)
 
 - 📫 How to reach me **saiyelmatwad@gmail.com**
-
-
-
 
 ## 🌐 Socials:
