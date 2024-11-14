@@ -12,7 +12,7 @@
 
 - 🧍‍♂️ I’m looking to collaborate on open source projects
 
-- 👨‍💻 All of my projects are available at [GitHub]https://github.com/SaiYelmatwad
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SaiYelmatwad)
 
 - 📫 How to reach me **saiyelmatwad@gmail.com**
 
